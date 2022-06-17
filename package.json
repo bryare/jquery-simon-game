@@ -1,0 +1,13 @@
+{
+  "name": "simon-game-challenge---bryan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
